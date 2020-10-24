@@ -1,0 +1,22 @@
+{
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "name": "npm-lab-nyc01-seng-ft-082420",
+  "description": "## Overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hasibulc/npm-lab-nyc01-seng-ft-082420.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hasibulc/npm-lab-nyc01-seng-ft-082420/issues"
+  },
+  "homepage": "https://github.com/hasibulc/npm-lab-nyc01-seng-ft-082420#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
