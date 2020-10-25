@@ -1,0 +1,25 @@
+{
+  "name": "npm-lab-nyc01-seng-ft-082420",
+  "version": "1.0.0",
+  "description": "color_clock",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdonohue0918/npm-lab-nyc01-seng-ft-082420.git"
+  },
+  "keywords": [
+    "npm-test"
+  ],
+  "author": "sdonohue0918",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdonohue0918/npm-lab-nyc01-seng-ft-082420/issues"
+  },
+  "homepage": "https://github.com/sdonohue0918/npm-lab-nyc01-seng-ft-082420#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
